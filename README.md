@@ -1,6 +1,6 @@
 # pycaffe
 
-- Produced by Visual Studio 2013 with the nuget mirror http://nuget.lzzy.net/api/v2/
+- Produced cpuonly pycaffe by Visual Studio 2013 with the nuget mirror http://nuget.lzzy.net/api/v2/
 - Using the code from https://github.com/Microsoft/caffe.git
 - The dependency python lib is installed by miniconda2 http://conda.pydata.org/miniconda.html  with the mirror https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
 - The protobuf used by python is installed by pip mirror http://e.pypi.python.org/simple
