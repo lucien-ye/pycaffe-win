@@ -1,5 +1,5 @@
 # pycaffe
-To use the pycaffe, please copy the subfolder *caffe* to the python install path $PythonPath/Lib/site-package
+To use the pycaffe, please copy the subfolder <b>*caffe*</b> to the python install path *$PythonPath/Lib/site-package*
 - Produced cpuonly pycaffe by Visual Studio 2013 with the nuget mirror http://nuget.lzzy.net/api/v2/
 - Using the code from https://github.com/Microsoft/caffe.git
 - The dependency python lib is installed by miniconda2 http://conda.pydata.org/miniconda.html  with the mirror https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
